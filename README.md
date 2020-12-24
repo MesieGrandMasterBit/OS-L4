@@ -1,11 +1,11 @@
-[![Build Status](https://travis-ci.com/MesieGrandMasterBit/OS-L4.svg?branch=master)](https://github.com/MesieGrandMasterBit/OS-L4)
+[![Build Status](https://travis-ci.org/github/MesieGrandMasterBit/OS-L4/builds/751367189)](https://github.com/MesieGrandMasterBit/OS-L4)
 
 # os
 ## Проект «LiteSH»
 
 #### Язык программирования: С/С++
 
-#### Автор Nizamova Veronika
+#### Автор Высотин Кирилл
 #### Реализовано:
 ##### В проекте создано два приложения сервер и клиент:
 ##### На стороне клиента:
