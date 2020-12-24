@@ -1,8 +1,5 @@
-
-https://travis-ci.org/MesieGrandMasterBit/OS-L4.svg?branch=main
 [![Build Status](https://travis-ci.org/MesieGrandMasterBit/OS-L4.svg?branch=main)](https://github.com/MesieGrandMasterBit/OS-L4)
 
-# os
 ## Проект «LiteSH»
 
 #### Язык программирования: С/С++
